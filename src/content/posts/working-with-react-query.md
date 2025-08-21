@@ -102,8 +102,8 @@ For example:
 - Stale queries are refetched automatically in the background when:
   - New instances of the query mount
   - The window is refocused
-  - The network is reconnected.
-  - The query is optionally configured with a refetch interval.
+  - The network is reconnected
+  - The query is optionally configured with a refetch interval
 
 _Remember that you can set application-wide defaults via the [defaultOptions on QueryClient](https://tanstack.com/query/v4/docs/reference/QueryClient#queryclient)_
 

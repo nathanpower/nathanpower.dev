@@ -8,7 +8,7 @@ title: About Me
 With a strong background in NodeJS and React, I’m currently offering services in the following areas:
 
 - Establishing effective frontend teams, or scaling existing teams
-- Mentoring junior frontend developers, or backend developers moving to frontend work.
+- Mentoring junior frontend developers, or backend developers moving to frontend work
 - Refactoring existing React applications for better maintainability and performance
 - Frontend and backend-for-frontend architecture / systems design
 - Typescript monorepo tooling and continuous integration setup or improvements
